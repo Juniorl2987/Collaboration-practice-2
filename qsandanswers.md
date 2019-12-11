@@ -1,1 +1,24 @@
-1. Answer = Merge conflict.
+ A = Merge conflict
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
